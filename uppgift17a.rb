@@ -8,3 +8,4 @@ require 'colorize'
 #
 #   dice1=rand(1..6)
 #   dice2=rand(1..6)
+#
